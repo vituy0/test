@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+p {
+    font-size: 40px;
+    color : white;
+}
+#state {
+      font-size: 80px;
+      color : green;
+}
